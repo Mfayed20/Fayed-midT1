@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fayed -midT1</string>
+
+    <string name="Main">Go to main Activity</string>
+    <string name="Main2">Go to Activity 2</string>
+    <string name="Main3">Go to Activity 3</string>
+    <string name="bigger">Bigger</string>
+
+    <string name="A1">Activity 1</string>
+    <string name="A2">Activity 2</string>
+    <string name="A3">Activity 3</string>
+    <array name="entries">
+        <item>option 1</item>
+        <item>option 2</item>
+        <item>option 3</item>
+        <item>option 4</item>
+
+
+    </array>
+
+</resources>
